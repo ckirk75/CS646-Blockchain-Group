@@ -1,0 +1,20 @@
+{
+    "header": {
+        "height": 7,
+        "timestamp": 1759532684.203487,
+        "previousblock": "ec19b59a861382a65fa3a2c4ac784ebf1d2e506f5b887f1ecf8825e9dd691339",
+        "hash": "88a6c2e5a497fbabcfa19336e68122c8531dcf19d8cc6514642b0f70befd48e5"
+    },
+    "body": [
+        {
+            "hash": "ac42a4ad05306de3c7995e60d14e1a5caf5c60707799f51f4ddddfa323e1ef47",
+            "content": {
+                "timestamp": 1759532658.9351182,
+                "from": "34b72192fb3464684417911db3dc996ba4ac672654940df9b34f33bb5360e67d",
+                "to": "34b72192fb3464684417911db3dc996ba4ac672654940df9b34f33bb5360e67d",
+                "amount": 14.0,
+                "signature": "2c994a984576832615f743613adb63d46410e814c043de85daa0714f2d8bc4dcab30de10507083aafd81c11045d06a5334002e44c72e74c76c9d6e568c985b6b5d2209f03d07d04ae5afa517fbe69225e74209fe943f21cc7629a062aa325ea524005dadd7112b4407e200b98c3f973f949c93b28d92c5c507c90b43eac6814c78d5c61622bfd9edf9db8815d46a6c3049ffa5390b643c4738e1681ba7f28014d58871bd61649444e6894db6dbf032bcdbaf9730d55bf2d39bbdd2197f413c30afa8f9150debec5834dc081c5cf6aad6a16f66a74a4c276016d3719eec730ba02d5b10f795ab2a44485708c15b1910d87e8e1e7d4abc48711e94aa203bbff88f"
+            }
+        }
+    ]
+}
